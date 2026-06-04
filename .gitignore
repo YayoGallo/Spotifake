@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Gradle
+.gradle/
+build/
+
+# Android
+local.properties
+.kotlin/
+
+# Maven (Backend)
+apiSpotifake/target/
+apiSpotifake/.mvn/wrapper/maven-wrapper.jar
+
+# Frontend specific (if any outside app)
+Ejemplo/build/
+Ejemplo/dist/
+
+# OS specific
+.DS_Store
+Thumbs.db

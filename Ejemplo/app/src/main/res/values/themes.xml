@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Ejemplo" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/spotifake_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:colorBackground">@color/spotifake_dark_gray</item>
+        <item name="colorSurface">@color/spotifake_surface</item>
+        <item name="android:statusBarColor">@color/spotifake_dark_gray</item>
+    </style>
+
+    <style name="Theme.Ejemplo" parent="Base.Theme.Ejemplo"/>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="spotifake_green">#1DB954</color>
+    <color name="spotifake_dark_gray">#181818</color>
+    <color name="spotifake_light_gray">#B3B3B3</color>
+    <color name="spotifake_surface">#282828</color>
+</resources>
