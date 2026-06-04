@@ -4,6 +4,13 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Data and dynamic files
+music/
+*.log
+
+# Local configuration
+application-local.properties
+
 ### STS ###
 .apt_generated
 .classpath
