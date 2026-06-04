@@ -1,4 +1,4 @@
-# Spotifake - Proyecto Udelp Music
+# Spotifake 
 
 Spotifake es un reproductor de música nativo para Android que se conecta a un backend robusto en Spring Boot.
 
@@ -39,7 +39,3 @@ Spotifake es un reproductor de música nativo para Android que se conecta a un b
 - **Reproducción en Segundo Plano:** Uso de Media3 `MediaSessionService` para mantener la música activa fuera de la app.
 - **Arquitectura:** MVVM, Inyección de dependencias con Hilt y Clean Architecture.
 - **Internacionalización:** Soporte para Español e Inglés.
-
-## Datos de Acceso de Prueba
-- **Usuario:** `admin`
-- **Contraseña:** `admin` (encriptada en BD)
